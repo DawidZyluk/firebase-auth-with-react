@@ -1,6 +1,6 @@
 # Internship Project - Learning React with Firebase Authentication and Redux Toolkit
 
-![image](https://github.com/DawidZyluk/internship-react/assets/91137753/d0b8501b-608b-4a2b-b647-70bb505e70b4)
+![image](https://github.com/DawidZyluk/internship-react/assets/91137753/28ffa8b4-ab72-469d-95c3-19ff4c52ae25)
 
 Welcome to my internship project repository! In this project, I focused on learning and mastering various aspects of React development, including styling React apps with CSS Modules, creating custom React hooks, implementing authentication using Firebase, and managing state with Redux Toolkit.
 
